@@ -1,0 +1,10 @@
+img {
+    width: 150px;
+    border: 1px solid black;
+}
+
+div {
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+}
